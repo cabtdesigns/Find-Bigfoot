@@ -4,3 +4,4 @@ When you click and find bigfoot you get an alert and bigfoot moves to a new part
 
 ## Link to Project
 <a href="http://165.232.129.211/bigfoot/">Find Bigfoot</a>
+<p> Hint! Bigfoot is small, around 50 x 50 pixels</p>
